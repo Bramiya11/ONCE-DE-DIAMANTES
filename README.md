@@ -1,6 +1,8 @@
 # ONCE-DE-DIAMANTES
 ¡Bienvenido al Reino Naipe! 
 
+*¡DIRIGETE AL MASTER PARA ENCONTRAR TODOS LOS ARCHIVOS!*
+
 Lanzamiento: 15.08.24 - 6:00 P.M. (GMT-5) Hora Colombia. 
 Versión: 1.0
 
